@@ -53,7 +53,7 @@ Below is the model performance summary for the default portfolio run:
 * Sensitivity analysis;
  <img width="2248" height="1657" alt="var_report" src="https://github.com/user-attachments/assets/0ec747c3-0eca-4c3e-8b3a-af1c4f620d37" />
 
-Heat map (Hull-white)
+* Heat map (Hull-white);
 <img width="1523" height="881" alt="heatmap_alpha_sigma" src="https://github.com/user-attachments/assets/74c18d0a-1fb8-4c4e-bf32-83c92b1621d3" />
 
 

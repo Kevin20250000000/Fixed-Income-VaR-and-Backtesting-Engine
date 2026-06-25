@@ -66,7 +66,7 @@ Below is the model performance summary for the default portfolio run:
 
 ## 🚀 How to Run
 
-### 1. Prerequisites
+### Prerequisites
 Ensure you have Python 3.8+ installed. Install the essential quantitative stack:
 ```bash
 pip install numpy pandas scipy matplotlib

@@ -49,7 +49,6 @@ Below is the model performance summary for the default portfolio run:
 * **Yield Curve Simulation**: Short Rate Simulations & Yield Curve Fitting.
 * **VaR Distribution**:
 * Portfolio P&L Distribution and VaR Thresholds;
-* Simulated Short-Rate Paths;
 * Stress Testing;
 * Sensitivity analysis;
  <img width="2248" height="1657" alt="var_report" src="https://github.com/user-attachments/assets/0ec747c3-0eca-4c3e-8b3a-af1c4f620d37" />

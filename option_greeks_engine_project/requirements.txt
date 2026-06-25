@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=2.0
+scipy>=1.11
+streamlit>=1.23
+fastapi>=0.109
+uvicorn>=0.23
+sqlalchemy>=2.0
+pytest>=8.0
